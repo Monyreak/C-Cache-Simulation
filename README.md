@@ -1,8 +1,3 @@
-Monyreak Kit
-Assignment 5 Cache Simulator 
-UCSC 6/7/2023
-
-
 This C code is for a simple cache simulation. It simulates the basic operations of a cache, including reading from the cache, adding to the cache, and managing the cache when it becomes full. The cache utilizes a hash table for quick lookup of keys, and a linked list for managing the stored data.
 
 Functions
